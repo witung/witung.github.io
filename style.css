@@ -1,0 +1,70 @@
+/*Selector {
+	Property: value;
+} (command+/)*/
+/*body {
+	background-image: url(img/bg2.jpg);
+	background-size: cover;
+	color: white;
+}*/
+
+header {
+	color:#AA3939;
+	text-align: center;
+	/*border: 5px dashed purple;*/
+	/*border:5px solid rgba(255,176,170,0.5);*/
+	/*cursor:pointer ;*/
+
+}
+nav {
+	width: 100%;
+    /*min-width: 320px;*/
+    /*position: fixed;*/
+    background-color: rgb(255,255,255);
+}
+a{
+	color: black;
+}
+/*li{
+	list-style: none;
+	display:inline-block;
+
+}*/
+section{
+	/*border: 5px solid pink;*/
+	margin: 5%;
+	font-size: 117%;
+}
+.project_div{
+	/*border: 5px solid pink;*/
+	margin: 5%;
+	font-size: 117%;
+}
+.index_p{
+	padding: 0px 50px 0px 0px;
+}
+/*p{
+	font-family: 'Indie Flower', cursive;
+}*/
+.exprience{
+	/*background-color: rgba(85, 0, 0, 0.2);*/
+}
+/*.project{
+	background-color: rgba(85, 0, 0, 0.2);
+}*/
+.project_gif{
+	float: left;
+}
+.profile{
+	float: left;
+}
+
+.onright{
+	text-align: right;
+}
+footer{
+	cloear:both;
+	text-align: center;
+}
+
+
+/*由上往下*/
